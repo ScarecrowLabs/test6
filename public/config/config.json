@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 25000,
   "WEI_COST": 5000000000000000000,
   "DISPLAY_COST": 5,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 300000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/the-brews-nft",
   "SHOW_BACKGROUND": false
