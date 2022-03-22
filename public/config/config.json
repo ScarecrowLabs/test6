@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x64947Aa2d80c328f66eb290ac848C4D743bF9cF2",
-  "SCAN_LINK": "https://https://mumbai.polygonscan.com/address/0x64947Aa2d80c328f66eb290ac848C4D743bF9cF2",
+  "CONTRACT_ADDRESS": "0xa269c328EDE72F6b12A1BCca4f0118a63A015C42",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa269c328ede72f6b12a1bcca4f0118a63a015c42",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
-    "ID": 80001
+    "ID": 137
   },
-  "NFT_NAME": "BREWS",
-  "SYMBOL": "test",
+  "NFT_NAME": "The Brews NFT",
+  "SYMBOL": "BREWS",
   "MAX_SUPPLY": 25000,
-  "WEI_COST": 90000000000000000,
-  "DISPLAY_COST": 0.09,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-brews-nft",
   "SHOW_BACKGROUND": false
 }
